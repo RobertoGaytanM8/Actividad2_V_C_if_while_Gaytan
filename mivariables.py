@@ -1,7 +1,7 @@
 import math
-edad=16  # 16 se guarda edad
+edad=17  # 17 se guarda edad
 
-nombre="Ariel Rodriguez"
+nombre="Roberto Gaytan"
 print("tu edad es",edad)
 print("te llamas",nombre)
 print("--tipo de variables--")
